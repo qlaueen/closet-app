@@ -1,0 +1,19 @@
+{
+  "name": "closet-app",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qlaueen/closet-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qlaueen/closet-app/issues"
+  },
+  "homepage": "https://github.com/qlaueen/closet-app#readme"
+}
