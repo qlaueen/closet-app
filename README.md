@@ -22,8 +22,6 @@ An cxample user:
   username: "janedoe",
   email: "janedoe@email.com",
   hash: // a password hash,
-  items: // an array of clothing items,
-  outfits: // an array of the clothing items previously added
 }
 ```
 
@@ -35,28 +33,10 @@ An example clothing piece:
   brand: "Vivianne Westwood", 
   color: "blue", 
   image: // img,
+  owner: "janedoe",
   createdAt: // timestamp,
-  wornAt: // timestamp of when it was used
 }
 ```
-
-
-
-An example outfit:
-
-```javascript
-{
-  user: // a reference to a User object
-  items: [
-    { type: "skirt", brand: "Vivianne Westwood", color: "blue", weather: "summer", image: // img},
-    { type: "t-shirt", brand: "Chanel", color: "white", weather: "summer", image: // img},
-    { type: "boots", brand: "Steve Madden", color: "black", weather: "summer", image: // img},
-  ],
-  createdAt: // timestamp,
-  wornAt: // timestamp of when it was used
-}
-```
-
 
 ## [Link to Commented First Draft Schema](db.mjs)
 
