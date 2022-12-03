@@ -62,13 +62,12 @@ An example clothing piece:
 
 ## Research Topics
 
-- (4 points) Integrate user authentication
+- (2 points) Integrate user authentication
   - I will create a safe authentication system for users
-  - There will be a "forget password" option for recovery
-- (5 points) React.js
+- (6 points) React.js
   - used React.js as the frontend framework; it's a challenging library to learn, so I've assigned it 5 points
-- (1 point) Images
-  - I will have to research the optimal way to store images in the database without losing resolution
+- (2 point) Material UI
+  - I will use MaterialUI as the front-end styling library for my application.
 
 10 points total out of 8 required points
 
